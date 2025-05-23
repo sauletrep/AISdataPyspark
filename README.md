@@ -1,4 +1,4 @@
-# 1.0 PROJECT 4 - analyse AISdata with Pyspark
+# PROJECT 4 - analyse AISdata with Pyspark
 Saule Trepekunaite
 
 ## 1.1 Objective
